@@ -1,0 +1,2 @@
+# STM32_HAL_BME280
+Bosch BME280 library for STM32 HAL
